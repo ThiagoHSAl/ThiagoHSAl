@@ -39,7 +39,7 @@ Um quadricóptero de baixo custo que transfere a inferência visual para uma est
 
 | Projeto | O que é | Links |
 |---|---|---|
-| **Detecção aérea para busca e salvamento** | Drone que encontra pessoas e devolve a coordenada geográfica, com YOLOv12 offboard via Wi-Fi HaLow | [código](https://github.com/ThiagoHSAl/Iniciacao_cientifica) |
+| **Detecção aérea para busca e salvamento** | Drone que encontra pessoas e devolve a coordenada geográfica, com YOLOv12 offboard via Wi-Fi HaLow | [código](https://github.com/ThiagoHSAl/drone_sar) |
 | **EloRise** | Tutor socrático para League of Legends: diagnostica o jogador contra benchmarks reais e devolve um plano de treino verificável | [site](https://elorise.com.br) · [backend](https://github.com/ThiagoHSAl/lol-api) |
 | **BookAdvisor** | Busca literária em linguagem natural que explica *por que* cada livro serve | [demo](https://bookadvisor-mytggby4hawufyodx8kd9r.streamlit.app/) · [código](https://github.com/ThiagoHSAl/BookAdvisor) |
 | **Datapólis** | Nota comparável de 0 a 5 de transparência pública para cada município brasileiro, num mapa navegável | [demo](https://datapolis.onrender.com/) · [código](https://github.com/ThiagoHSAl/Datapolis) |
