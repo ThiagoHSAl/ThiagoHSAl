@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Thiago! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor e pesquisador | Percepção visual, agentes de IA e dados</b><br>
+  <b>Desenvolvedor e pesquisador | Visão computacional, agentes de IA e dados</b><br>
   Iniciação Científica no <a href="https://verlab.dcc.ufmg.br/">VerLab</a> (DCC/UFMG) · Bombeiro Militar de Minas Gerais
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação** na Universidade Federal de Minas Gerais (UFMG), com previsão de conclusão em 2027/2.
+- 🎓 Graduando em **Sistemas de Informação** na Universidade Federal de Minas Gerais (UFMG).
 - 🚁 Bolsista de **Iniciação Científica no VerLab** (Laboratório de Visão Computacional e Robótica): detecção e geolocalização de pessoas por **drone para busca e salvamento**. Treino *sim-to-real* de detectores YOLO, pipeline fotogramétrico, integração embarcada (Pixhawk, MAVLink, Raspberry Pi) e enlace **Wi-Fi HaLow** caracterizado em campo.
 - 🤖 Atualmente: **mapa termo-semântico** com um Pioneer 3-DX, LIDAR 2D e câmera térmica em **ROS 2**.
 - 🚒 **Bombeiro Militar** desde 2017. Como operador aerotático e piloto de aeronave remotamente pilotada, fazia a varredura visual da imagem ao vivo enquanto pilotava. Essa carga de trabalho virou o meu problema de pesquisa.
